@@ -1,2 +1,2 @@
 # EmsisoftVirus
-Layer for Emsisoft cmdline scanner
+Additional frontend/backend layer for Emsisoft cmdline scanner
